@@ -23,3 +23,4 @@
     5. Set layer rendering -> Opacity 70%
 9. You could get maps as shown below. 
 
+![heatmap](image.png)
